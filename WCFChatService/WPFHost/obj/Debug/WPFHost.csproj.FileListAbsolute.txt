@@ -1,0 +1,51 @@
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\bin\Debug\WPFHost.exe.config
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\bin\Debug\WPFHost.exe
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\bin\Debug\WPFHost.pdb
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\bin\Debug\ServiceAssembly.dll
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\Window1.baml
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\Window1.g.cs
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\App.g.cs
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost_MarkupCompile.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.g.resources
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.Properties.Resources.resources
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.csproj.CopyComplete
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.exe
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFHost\obj\Debug\WPFHost.pdb
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Debug\WPFHost.exe.config
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Debug\WPFHost.exe
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Debug\WPFHost.pdb
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Debug\ServiceAssembly.dll
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Debug\ServiceAssembly.pdb
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\Window1.baml
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\Window1.g.cs
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\App.g.cs
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost_MarkupCompile.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.g.resources
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.Properties.Resources.resources
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.csproj.CopyComplete
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.exe
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.pdb
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Debug\WPFHost.csprojAssemblyReference.cache
+D:\Desktop (1)\WCFChatService\WPFHost\bin\Debug\WPFHost.exe.config
+D:\Desktop (1)\WCFChatService\WPFHost\bin\Debug\WPFHost.exe
+D:\Desktop (1)\WCFChatService\WPFHost\bin\Debug\WPFHost.pdb
+D:\Desktop (1)\WCFChatService\WPFHost\bin\Debug\ServiceAssembly.dll
+D:\Desktop (1)\WCFChatService\WPFHost\bin\Debug\ServiceAssembly.pdb
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.csprojAssemblyReference.cache
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\Window1.baml
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\Window1.g.cs
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\App.g.cs
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost_MarkupCompile.cache
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.g.resources
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.Properties.Resources.resources
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.csproj.GenerateResource.cache
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.csproj.CoreCompileInputs.cache
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.csproj.CopyComplete
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.exe
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\WPFHost.pdb
+D:\Desktop (1)\WCFChatService\WPFHost\obj\Debug\App.baml

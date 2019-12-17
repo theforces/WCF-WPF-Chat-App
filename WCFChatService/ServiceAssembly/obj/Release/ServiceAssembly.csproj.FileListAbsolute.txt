@@ -1,0 +1,11 @@
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\bin\Release\ServiceAssembly.dll
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\bin\Release\ServiceAssembly.pdb
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.dll
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.pdb
+D:\Programe C#\WCFChatService\ServiceAssembly\bin\Release\ServiceAssembly.dll
+D:\Programe C#\WCFChatService\ServiceAssembly\bin\Release\ServiceAssembly.pdb
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.csprojAssemblyReference.cache
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.csproj.CoreCompileInputs.cache
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.dll
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Release\ServiceAssembly.pdb

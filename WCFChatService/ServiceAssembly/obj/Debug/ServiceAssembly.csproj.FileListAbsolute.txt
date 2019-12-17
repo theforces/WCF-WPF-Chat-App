@@ -1,0 +1,16 @@
+C:\Users\Andrei\Desktop\WCFWPFApp\ServiceAssembly\bin\Debug\ServiceAssembly.dll
+C:\Users\Andrei\Desktop\WCFWPFApp\ServiceAssembly\bin\Debug\ServiceAssembly.pdb
+C:\Users\Andrei\Desktop\WCFWPFApp\ServiceAssembly\obj\Debug\ServiceAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\ServiceAssembly\obj\Debug\ServiceAssembly.dll
+C:\Users\Andrei\Desktop\WCFWPFApp\ServiceAssembly\obj\Debug\ServiceAssembly.pdb
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\bin\Debug\ServiceAssembly.dll
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\bin\Debug\ServiceAssembly.pdb
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.dll
+C:\Users\Andrei\source\repos\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.pdb
+D:\Programe C#\WCFChatService\ServiceAssembly\bin\Debug\ServiceAssembly.dll
+D:\Programe C#\WCFChatService\ServiceAssembly\bin\Debug\ServiceAssembly.pdb
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.csprojAssemblyReference.cache
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.csproj.CoreCompileInputs.cache
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.dll
+D:\Programe C#\WCFChatService\ServiceAssembly\obj\Debug\ServiceAssembly.pdb

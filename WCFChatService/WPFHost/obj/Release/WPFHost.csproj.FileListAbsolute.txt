@@ -1,0 +1,70 @@
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Release\WPFHost.exe.config
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Release\WPFHost.exe
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Release\WPFHost.pdb
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Release\ServiceAssembly.dll
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\bin\Release\ServiceAssembly.pdb
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\Window1.baml
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\Window1.g.cs
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\App.g.cs
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost_MarkupCompile.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.g.resources
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.Properties.Resources.resources
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CopyComplete
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.exe
+C:\Users\Andrei\source\repos\WCFChatService\WPFHost\obj\Release\WPFHost.pdb
+D:\Programe C#\WCFChatService\WPFHost\bin\Release\WPFHost.exe.config
+D:\Programe C#\WCFChatService\WPFHost\bin\Release\WPFHost.exe
+D:\Programe C#\WCFChatService\WPFHost\bin\Release\WPFHost.pdb
+D:\Programe C#\WCFChatService\WPFHost\bin\Release\ServiceAssembly.dll
+D:\Programe C#\WCFChatService\WPFHost\bin\Release\ServiceAssembly.pdb
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.csprojAssemblyReference.cache
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\Window1.baml
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\Window1.g.cs
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\App.g.cs
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost_MarkupCompile.cache
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.g.resources
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.Properties.Resources.resources
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.GenerateResource.cache
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CoreCompileInputs.cache
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CopyComplete
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.exe
+D:\Programe C#\WCFChatService\WPFHost\obj\Release\WPFHost.pdb
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\WPFHost.exe.config
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\WPFHost.exe
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\WPFHost.pdb
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\ServiceAssembly.dll
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\ServiceAssembly.pdb
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\Window1.baml
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\App.baml
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\Window1.g.cs
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\App.g.cs
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost_MarkupCompile.cache
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.g.resources
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.Properties.Resources.resources
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CopyComplete
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.exe
+C:\Users\Andrei\Desktop\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.pdb
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\WPFHost.exe.config
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\WPFHost.exe
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\WPFHost.pdb
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\ServiceAssembly.dll
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\bin\Release\ServiceAssembly.pdb
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csprojAssemblyReference.cache
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\Window1.baml
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\App.baml
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\Window1.g.cs
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\App.g.cs
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost_MarkupCompile.cache
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.g.resources
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.Properties.Resources.resources
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.GenerateResource.cache
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CoreCompileInputs.cache
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.csproj.CopyComplete
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.exe
+D:\Programe C#\wetransfer-dc0705\WCFChatService\WPFHost\obj\Release\WPFHost.pdb
