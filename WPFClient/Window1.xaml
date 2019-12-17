@@ -1,0 +1,359 @@
+﻿<Window
+    x:Class="WPFClient.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Width="834"
+    Height="450"
+    MaxWidth="834"
+    MaxHeight="580"
+    MinHeight="560"
+    MinWidth="833"
+    AllowsTransparency="True"
+    SizeToContent="WidthAndHeight"
+    Style="{DynamicResource MainWindow}"
+    WindowStyle="None">
+    <Grid Background="#FF23B8E5" ShowGridLines="False">
+
+        <Label
+            x:Name="tbUsername"
+            Height="25"
+            Margin="348,175,379,0"
+            VerticalAlignment="Top"
+            Panel.ZIndex="0"
+            Content="Username"
+            FontFamily="Global User Interface"
+            FontSize="14"
+            Foreground="White" />
+        <TextBox
+            x:Name="txtUserName"
+            Width="151"
+            Height="23"
+            Margin="277,175,313,0"
+            Padding="3"
+            VerticalAlignment="Top"
+            Panel.ZIndex="20"
+            Background="Transparent"
+            BorderThickness="0"
+            CaretBrush="White"
+            FontSize="14"
+            Foreground="White"
+            MouseEnter="xrLabel260_MouseEnter"
+            MouseLeave="xrLabel260_MouseLeave"
+            TextAlignment="Center"
+            TextChanged="txtUserName_TextChanged"
+            TextWrapping="Wrap" />
+
+
+        <Rectangle
+            Width="151"
+            Height="3"
+            Margin="277,197,313,0"
+            VerticalAlignment="Top"
+            Fill="White"
+            RadiusX="1.25"
+            RadiusY="1.25"
+            Stroke="White" />
+
+
+        <PasswordBox
+            x:Name="pwbPassword"
+            Width="150"
+            Height="32"
+            Margin="277,205,313,0"
+            Padding="3"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            HorizontalContentAlignment="Center"
+            Background="Transparent"
+            BorderThickness="0"
+            CaretBrush="White"
+            FontSize="14"
+            Foreground="White"
+            MouseEnter="Password_MouseEnter"
+            MouseLeave="Password_MouseLeave"
+            PasswordChanged="pwbPassword_PasswordChanged" />
+        <TextBlock
+            x:Name="tbPassword"
+            Width="70"
+            Height="25"
+            Margin="348,205,379,0"
+            Padding="3"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Panel.ZIndex="0"
+            FontFamily="Global User Interface"
+            FontSize="14"
+            Foreground="White"
+            IsHitTestVisible="False"
+            RenderTransformOrigin="0.511,0.696"
+            Text=" Password"
+            TextAlignment="Center" />
+        <Rectangle
+            Width="151"
+            Height="3"
+            Margin="277,227,313,0"
+            VerticalAlignment="Top"
+            Fill="White"
+            RadiusX="1.25"
+            RadiusY="1.25"
+            Stroke="White" />
+
+
+        <!--<Label
+            x:Name="loginLabelIP"
+            Width="70"
+            Margin="179,232,0,255"
+            HorizontalAlignment="Left">
+            Service IP:
+        </Label>
+        <TextBox
+            x:Name="loginTxtBoxIP"
+            Height="23"
+            Margin="277,232,313,0"
+            VerticalAlignment="Top"
+            Text="127.0.0.1" />-->
+        <StackPanel
+            MaxWidth="160"
+            Margin="0,250,35,0"
+            Orientation="Vertical">
+            <Border
+                Height="38"
+                MaxWidth="90"
+                Margin="0,0,0,10"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch"
+                BorderBrush="White"
+                BorderThickness="3"
+                CornerRadius="4">
+                <Button
+                    x:Name="loginButtonConnect"
+                    Height="23"
+                    Margin="-0.2,0,0.2,7.2"
+                    VerticalAlignment="Bottom"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Click="buttonConnect_Click"
+                    Content="Connect"
+                    FontSize="17"
+                    FontWeight="Bold"
+                    Foreground="White"
+                    Style="{DynamicResource MyButton}" />
+
+            </Border>
+
+            <Border
+                x:Name="chenar_urat"               
+                Height="38"
+                Margin="0,0,0,0"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top"
+                BorderBrush="White"
+                BorderThickness="3"
+                CornerRadius="4">
+                <Button
+                    x:Name="loginButtonRegister"
+                    Height="35"
+                    Margin="-0.2,-3.2,0.2,0.2"
+                    VerticalAlignment="Bottom"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Click="buttonRegister_Click"
+                    Content="Create account"
+                    FontSize="17"
+                    FontWeight="Bold"
+                    Foreground="White"
+                    Style="{DynamicResource MyButton}" />
+
+
+            </Border>
+        </StackPanel>
+
+
+
+
+        <ComboBox
+            x:Name="loginComboBoxImgs"
+            Width="98"
+            Height="98"
+            Margin="0,147,192,182"
+            HorizontalAlignment="Right"
+            Background="Transparent" />
+        <Label
+            x:Name="loginLabelStatus"
+            Width="500"
+            Height="94"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            FontFamily="Nirmala UI"
+            FontSize="25"
+            FontWeight="Thin"
+            Foreground="White"
+            HorizontalContentAlignment="Left" Margin="0,0,285.4,0.2"
+            >
+            Offline
+        </Label>
+
+
+
+
+        <ListBox
+            x:Name="chatListBoxMsgs"
+            Margin="10,62,167,84"
+            BorderThickness="0" />
+        <ListBox
+            x:Name="chatListBoxNames"
+            Width="139"
+            Margin="0,62,10,84"
+            HorizontalAlignment="Right" />
+        <CheckBox
+            x:Name="chatCheckBoxWhisper"
+            Width="120"
+            Height="15"
+            Margin="0,37,10,0"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            FontSize="12"
+            Foreground="White">
+            Whisper Mode
+        </CheckBox>
+        <TextBox
+            x:Name="chatTxtBoxType"
+            Height="39"
+            Margin="10,0,313,9"
+            VerticalAlignment="Bottom" />
+        <Button
+            x:Name="chatButtonSend"
+            Width="136"
+            Height="39"
+            Margin="0,0,167,9"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            BorderThickness="3"
+            Click="chatButtonSend_Click"
+            FontWeight="Bold"
+            Foreground="White"
+            Style="{DynamicResource MyButton}">
+            <Border
+                Width="126"
+                Height="38"
+                BorderBrush="White"
+                BorderThickness="4"
+                CornerRadius="4">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Send</TextBlock>
+            </Border>
+
+        </Button>
+        <Button
+            x:Name="chatButtonDisconnect"
+            Width="139"
+            Height="39"
+            Margin="0,0,10,9"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Click="chatButtonDisconnect_Click"
+            Foreground="White"
+            Style="{StaticResource InformButton}">
+            Disconnect
+        </Button>
+        <Image
+            x:Name="chatCurrentImage"
+            Width="60"
+            Height="70"
+            Margin="10,0,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Stretch="Fill" />
+        <Label
+            x:Name="chatLabelCurrentUName"
+            Width="85"
+            Height="23"
+            Margin="87,10,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Foreground="White" />
+        <Label
+            x:Name="chatLabelCurrentStatus"
+            Width="85"
+            Height="23"
+            Margin="87,37,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Foreground="Green" />
+        <Label
+            x:Name="chatLabelWritingMsg"
+            Height="30"
+            Margin="10,0,167,49"
+            VerticalAlignment="Bottom"
+            Foreground="Gray" />
+        <Button
+            x:Name="chatButtonSendFile"
+            Width="105"
+            Height="23"
+            Margin="646.105,9,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="Transparent"
+            Click="chatButtonSendFile_Click"
+            Foreground="White"
+            Style="{StaticResource InformButton}">
+            Send File
+        </Button>
+        <Button
+            x:Name="loginButtonDelete"
+            Height="23"
+            Margin="204,9,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="Transparent"
+            Click="buttonDelete_Click"
+            Foreground="White"
+            Style="{StaticResource InformButton}">
+            Delete
+        </Button>
+        <Button
+            x:Name="loginButtonUpdate"
+            Height="23"
+            Margin="275,9,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="Transparent"
+            Click="buttonUpdate_Click"
+            Foreground="White"
+            Style="{StaticResource InformButton}">
+            Update
+        </Button>
+        <Label
+            x:Name="chatLabelSendFileStatus"
+            Height="28"
+            Margin="270,32,316,0"
+            BorderThickness="0"
+            Background="Transparent"
+            VerticalAlignment="Top" />
+        <Button
+            x:Name="chatButtonOpenReceived"
+            Height="23"
+            Margin="492,9,192,0"
+            VerticalAlignment="Top"
+            Background="Transparent"
+            Click="chatButtonOpenReceived_Click"
+            Foreground="White"
+            Style="{StaticResource InformButton}">
+            Open Received Files
+        </Button>
+
+        <TextBox
+            x:Name="textBoxUpdatePassword"
+            Width="120"
+            Height="22"
+            Margin="371.935,10,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            TextWrapping="Wrap"
+            Visibility="Hidden" />
+
+
+
+    </Grid>
+</Window>

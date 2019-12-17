@@ -1,0 +1,62 @@
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\Window1.baml
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\Window1.g.cs
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\App.g.cs
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\bin\Debug\WPFClient.pdb
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.exe
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.pdb
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csprojAssemblyReference.cache
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\bin\Debug\WPFClient.pdb
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\Window1.baml
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\App.baml
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\Window1.g.cs
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\App.g.cs
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.exe
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.pdb
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csprojAssemblyReference.cache
+C:\Users\Dan\Downloads\ultima de la Moise\WCFWPFApp\WPFClient\obj\Debug\ButtonStackPanel.baml
+D:\Desktop (1)\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe.config
+D:\Desktop (1)\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe
+D:\Desktop (1)\WCFWPFApp\WPFClient\bin\Debug\WPFClient.pdb
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csprojAssemblyReference.cache
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\ButtonStackPanel.baml
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\Window1.baml
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\App.baml
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\Window1.g.cs
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\App.g.cs
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.g.resources
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.exe
+D:\Desktop (1)\WCFWPFApp\WPFClient\obj\Debug\WPFClient.pdb
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe.config
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\bin\Debug\WPFClient.exe
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\bin\Debug\WPFClient.pdb
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csprojAssemblyReference.cache
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\ButtonStackPanel.baml
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\Window1.baml
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\App.baml
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\Window1.g.cs
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\App.g.cs
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.g.resources
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.exe
+D:\Programe C#\wetransfer-dc0705\WCFWPFApp\WPFClient\obj\Debug\WPFClient.pdb

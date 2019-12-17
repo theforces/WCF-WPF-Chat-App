@@ -1,0 +1,14 @@
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\bin\Release\WPFClient.exe.config
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\bin\Release\WPFClient.exe
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\bin\Release\WPFClient.pdb
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\Window1.baml
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\Window1.g.cs
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\App.g.cs
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient_MarkupCompile.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.g.resources
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.Properties.Resources.resources
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.exe
+C:\Users\Andrei\Desktop\WCFWPFApp\WPFClient\obj\Release\WPFClient.pdb
